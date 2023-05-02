@@ -19,5 +19,3 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
 <br></br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-luis-CN&layout=compact)](https://github.com/Andre-luis-CN/github-readme-stats)
