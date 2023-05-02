@@ -3,7 +3,7 @@
 - 👨‍💻 Desenvolvedor front-end
 - 📚 Se aprofundando mais no React native e Node.js
 
-<br></br>
+
 [![ Linkedin ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-nascimentocb1/)
 [![ site ](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
 
