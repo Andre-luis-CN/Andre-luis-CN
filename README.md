@@ -3,7 +3,7 @@
 <br></br>
 [![ Linkedin ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-nascimentocb1/)
 [![ site ](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
-[![ Instagram ](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andre_b1_/)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andre-luis-CN&show_icons=true&theme=transparent)
 ##  Tecnologias que eu uso no meu dia
