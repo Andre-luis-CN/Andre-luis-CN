@@ -20,4 +20,4 @@
 </div>
 <br></br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-luis-CN&&langs_count=8)](https://github.com/Andre-luis-CN)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Andre-luis-CN&&langs_count=8)](https://github.com/Andre-luis-CN)
